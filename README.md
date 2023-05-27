@@ -21,6 +21,7 @@ Hey, Netology
 </html>
 ```
 Опубликуйте созданный fork в своём репозитории и предоставьте ответ в виде ссылки на https://hub.docker.com/username_repo.
+* https://hub.docker.com/layers/romera14/test/latest/images/sha256-7c0a52f8e6d63a818a7e3ab2f85709c79bbccb4c266e047d57c429d6febbc4bd?tab=layers
 
 ## Задача 2
 
